@@ -2,6 +2,7 @@ name: countries_db
 description: "A new Flutter package project."
 version: 1.0.0
 homepage:
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 environment:
   sdk: ^3.11.1
