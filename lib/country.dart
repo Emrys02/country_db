@@ -25,7 +25,6 @@ class Country {
   final String name;
 
   /// flag svg asset path
-  @internal
   final String flagPath;
 
   /// denotes country's international dial code
