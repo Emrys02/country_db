@@ -1,6 +1,3 @@
-import 'package:flutter/foundation.dart' show protected;
-
-@protected
 abstract class CountryAsset {
   static const _root = 'assets/countries';
 

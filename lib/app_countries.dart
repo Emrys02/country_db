@@ -1,5 +1,5 @@
-import 'package:countries_db/countries_assets.dart';
-import 'package:countries_db/country.dart';
+import 'countries_assets.dart';
+import 'country.dart';
 
 abstract class AppCountries {
   static List<Country> get recommended => [
