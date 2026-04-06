@@ -1,7 +1,4 @@
-import 'package:flutter/foundation.dart' show internal;
-
 class Country {
-  @internal
   const Country({
     required this.name,
     required this.flagPath,
