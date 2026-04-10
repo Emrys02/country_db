@@ -1,5 +1,5 @@
 abstract class CountryAsset {
-  static const _root = 'assets/countries';
+  static const _root = 'assets';
 
   static String get algeria => '$_root/Algeria.svg';
   static String get eastTimor => '$_root/East Timor.svg';
